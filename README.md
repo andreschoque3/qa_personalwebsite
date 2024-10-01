@@ -23,3 +23,8 @@
 ```
 node runTest.js
 ```
+
+2. Execute using a schedule
+```
+node scheduler.js
+```
